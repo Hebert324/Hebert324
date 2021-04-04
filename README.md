@@ -2,12 +2,12 @@
 ## I'm Hebert Rocha
 
 - 🌱 I have experience with Typescript, Node.js, ReactJS, and React Native.
-- See my youtube channel: [ARTHUR PC](https://www.youtube.com/channel/UCIGhuN-sgEiVoAVwAJte8Bw)
+- See my youtube channel: [Hebert Rocha](https://www.youtube.com/channel/UCIGhuN-sgEiVoAVwAJte8Bw)
 - See my LinkedIn: [Hebert Rocha](https://www.linkedin.com/in/hebert-rocha-62318a1b3/)
 
 <div align="center" >
 
-[![Hebert github stats](https://github-readme-stats.vercel.app/api?username=Hebert324&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Hebert github stats](https://github-readme-stats.vercel.app/api?username=Hebert324show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hebert324&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
   <a href="https://www.youtube.com/channel/UCIGhuN-sgEiVoAVwAJte8Bw">

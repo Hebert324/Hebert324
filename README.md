@@ -1,5 +1,5 @@
-### Hi there 👋
-## I'm Hebert Rocha
+### Olá 👋
+## Eu sou o Hebert Rocha
 
 - Eu tenho experiência em HTML, CSS e JavaScript.
 - Eu morro no Brasil, Goiânia-GO.

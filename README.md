@@ -1,9 +1,9 @@
 ### Hi there 👋
 ## I'm Hebert Rocha
 
-- 🌱 I have experience with Typescript, Node.js, ReactJS, and React Native.
-- See my youtube channel: [Hebert Rocha](https://www.youtube.com/channel/UCIGhuN-sgEiVoAVwAJte8Bw)
-- See my LinkedIn: [Hebert Rocha](https://www.linkedin.com/in/hebert-rocha-62318a1b3/)
+- # Eu tenho experiência em HTML, CSS e JavaScript.
+- # Eu morro no Brasil, Goiânia-GO.
+- # Estou a cada dia estudando mais para me tornar um grande progamdor!
 
 ## Conecte-se comigo:
 <a href="https://www.instagram.com/hebert.rc/" target="_blank">

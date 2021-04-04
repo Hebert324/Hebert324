@@ -3,7 +3,7 @@
 
 - Eu tenho experiência em HTML, CSS e JavaScript.
 - Eu morro no Brasil, Goiânia-GO.
-- Estou a cada dia estudando mais para me tornar um grande progamdor!
+- Estou a cada dia estudando mais para me tornar um grande progamador!
 
 ## Conecte-se comigo:
 <a href="https://www.instagram.com/hebert.rc/" target="_blank">

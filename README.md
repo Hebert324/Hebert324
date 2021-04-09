@@ -1,5 +1,4 @@
-### Olá 👋
-## Eu sou o Hebert Rocha
+## Meu nome e Hebert Rocha
 
 - Eu tenho experiência em HTML, CSS e JavaScript.
 - Eu morro no Brasil, Goiânia-GO.

@@ -1,8 +1,11 @@
-## Meu nome e Hebert Rocha
+<img align="right" alt="Edward Elric" width="200px" src="https://i.pinimg.com/originals/73/0b/8c/730b8cb9f7c2bbece1eb9f093f5205ef.gif">
+
+## Olá meu nome e Hebert Rocha
 
 - Tenho experiência em HTML, CSS e JavaScript.
 - Eu morro no Brasil, Goiânia-GO.
 - Estou a cada dia estudando mais para me tornar um grande progamador!
+<br>
 
 ## Conecte-se comigo:
 <a href="https://www.instagram.com/hebert.rc/" target="_blank">

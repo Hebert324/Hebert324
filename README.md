@@ -21,8 +21,8 @@
 <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1617505883~hmac=edd6e9634583d90e1a5cb1ed3d7eda8e" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
-<div align="center">
-  <h1>GitHub stats:</h1>
+
+<div align="center"> <summary> <h1>GitHub stats:</h1> </summary>  <details>
   
 [![Hebert](https://github-readme-stats.vercel.app/api?username=Hebert324&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hebert324&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)

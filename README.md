@@ -5,7 +5,7 @@
 - Tenho experiência em HTML, CSS e JavaScript.
 - Eu morro no Brasil, Goiânia-GO.
 - Estou a cada dia estudando mais para me tornar um grande progamador;
-- conecte-se comigo no: conecte-se comigo no: <a href="https://www.instagram.com/hebert.rc/" target="_blank">@intagram</a> e <a href="https://www.linkedin.com/in/hebert-rocha-62318a1b3/" target="_blank">@linkedin</a>.
+- Conecte-se comigo no: <a href="https://www.instagram.com/hebert.rc/" target="_blank">@intagram</a> e <a href="https://www.linkedin.com/in/hebert-rocha-62318a1b3/" target="_blank">@linkedin</a>.
 
 <!-- ## Conecte-se comigo:
 <a href="https://www.instagram.com/hebert.rc/" target="_blank">

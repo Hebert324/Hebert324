@@ -1,6 +1,6 @@
 ## Meu nome e Hebert Rocha
 
-- tenho experiência em HTML, CSS e JavaScript.
+- Tenho experiência em HTML, CSS e JavaScript.
 - Eu morro no Brasil, Goiânia-GO.
 - Estou a cada dia estudando mais para me tornar um grande progamador!
 

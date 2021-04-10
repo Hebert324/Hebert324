@@ -7,20 +7,19 @@
 - Estou a cada dia estudando mais para me tornar um grande progamador!
 
  <div>
-  <p>Conecte-se comigo</p>
   <a href="https://www.linkedin.com/in/hebert-rocha-62318a1b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="https://www.instagram.com/hebert.rc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<!--## Conecte-se comigo:
+<!-- ## Conecte-se comigo:
 <a href="https://www.instagram.com/hebert.rc/" target="_blank">
 <img align="center" alt="hebert-instagram" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1617506161~hmac=08ecafc4209514af88b2336ed440fbdb" style="max-width:100%;">
 </a> -->
 
-<a href="https://www.linkedin.com/in/hebert-rocha-62318a1b3/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/hebert-rocha-62318a1b3/" target="_blank">
 <img align="center" alt="Hebert-linkedin" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617506187~hmac=5e664be4ad1bbfd0ea2e08f941c35129" style="max-width:100%;">
-</a>
+</a> -->
 
 ## Minhas Experiências:
 <img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1617505854~hmac=9b2323edbc234388b78c05c43e34c19f" alt="rails" width="40" height="40" style="max-width:100%;"></img>

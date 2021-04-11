@@ -40,9 +40,6 @@
   <a href="https://www.youtube.com/channel/UCIGhuN-sgEiVoAVwAJte8Bw">
     <img align="left" alt="Hebert | Youtube" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1618166266~hmac=b778bb8942f91a557ca3b52df964b1f1" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCIGhuN-sgEiVoAVwAJte8Bw">
-    <img align="left" alt="Hebert | Youtube" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1618166266~hmac=b778bb8942f91a557ca3b52df964b1f1" />
-  </a> &nbsp;&nbsp;
   <a href="mailto:hebertrocha76@gmail.com">
     <img align="left" alt="Hebert | Gmail" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1618166601~hmac=c2bbe8a2278f62040e68e5cfbc6f4d33" />
   </a>

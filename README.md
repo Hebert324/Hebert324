@@ -33,10 +33,13 @@
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/hebert-rocha-62318a1b3/">
-    <img align="left" alt="Hebert | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Hebert | Linkedin" width="24px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1618166451~hmac=db9f25ab39e602efec9223c044d78b65" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/hebert.rc/">
-    <img align="left" alt="Hebert | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Hebert | Instagram" width="24px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1618166555~hmac=11f7d681c52a00e6359f716974557352" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCIGhuN-sgEiVoAVwAJte8Bw">
+    <img align="left" alt="Hebert | Youtube" width="24px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1618166266~hmac=b778bb8942f91a557ca3b52df964b1f1" />
   </a> &nbsp;&nbsp;
  
 

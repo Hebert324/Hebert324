@@ -5,7 +5,6 @@
 - Tenho experiência em HTML, CSS e JavaScript.
 - Eu morro no Brasil, Goiânia-GO.
 - Estou a cada dia estudando mais para me tornar um grande progamador;
-- Conecte-se comigo no: <a href="https://www.instagram.com/hebert.rc/" target="_blank">@intagram</a> e <a href="https://www.linkedin.com/in/hebert-rocha-62318a1b3/" target="_blank">@linkedin</a>.
 
 <!-- ## Conecte-se comigo:
 <a href="https://www.instagram.com/hebert.rc/" target="_blank">
@@ -36,12 +35,17 @@
     <img align="left" alt="Hebert | Linkedin" width="24px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1618166451~hmac=db9f25ab39e602efec9223c044d78b65" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/hebert.rc/">
-    <img align="left" alt="Hebert | Instagram" width="24px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1618166555~hmac=11f7d681c52a00e6359f716974557352" />
+    <img align="left" alt="Hebert | Instagram" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1618166555~hmac=11f7d681c52a00e6359f716974557352" />
   </a> &nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCIGhuN-sgEiVoAVwAJte8Bw">
-    <img align="left" alt="Hebert | Youtube" width="24px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1618166266~hmac=b778bb8942f91a557ca3b52df964b1f1" />
+    <img align="left" alt="Hebert | Youtube" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1618166266~hmac=b778bb8942f91a557ca3b52df964b1f1" />
   </a> &nbsp;&nbsp;
- 
+  <a href="https://www.youtube.com/channel/UCIGhuN-sgEiVoAVwAJte8Bw">
+    <img align="left" alt="Hebert | Youtube" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1618166266~hmac=b778bb8942f91a557ca3b52df964b1f1" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:hebertrocha76@gmail.com">
+    <img align="left" alt="Hebert | Gmail" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1618166601~hmac=c2bbe8a2278f62040e68e5cfbc6f4d33" />
+  </a>
 
 <!--
 **Hebert324/Hebert324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

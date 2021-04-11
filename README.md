@@ -32,11 +32,11 @@
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/satyam-goyal26/">
-    <img align="left" alt="Hebert | Linkedin" width="24px" src="https://www.linkedin.com/in/hebert-rocha-62318a1b3/" />
+  <a href="https://www.linkedin.com/in/hebert-rocha-62318a1b3/">
+    <img align="left" alt="Hebert | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/satyu.26/">
-    <img align="left" alt="Hebert | Instagram" width="24px" src="https://www.instagram.com/hebert.rc/" />
+  <a href="https://www.instagram.com/hebert.rc/">
+    <img align="left" alt="Hebert | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
  
 

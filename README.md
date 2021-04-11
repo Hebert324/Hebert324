@@ -33,17 +33,11 @@
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/satyam-goyal26/">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/SatYug26">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Hebert | Linkedin" width="24px" src="https://www.linkedin.com/in/hebert-rocha-62318a1b3/" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/satyu.26/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Hebert | Instagram" width="24px" src="https://www.instagram.com/hebert.rc/" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:goyalsatyam8@gmail.com">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
  
 
 <!--

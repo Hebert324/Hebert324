@@ -17,7 +17,7 @@
 
 ## Minhas Experiências:
 <img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1617505854~hmac=9b2323edbc234388b78c05c43e34c19f" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1617505883~hmac=edd6e9634583d90e1a5cb1ed3d7eda8e" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1618177802~hmac=5a83caaa0782fe31079c7e21e599c87f" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
 

@@ -4,7 +4,7 @@
 
 - Tenho experiência em HTML, CSS e JavaScript.👨🏻‍💻
 - Eu morro no Brasil, Goiânia-GO.🏡
-- Meu unico objetivo e me tornar um desenvolvedor de sucesso.🔥
+- Meu objetivo e me tornar um desenvolvedor de sucesso.🔥
 - Atualmente estou cursando Análise e Desenvolvimente de Sistemas.📚
 
 <!-- ## Conecte-se comigo:

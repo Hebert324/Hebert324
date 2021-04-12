@@ -1,4 +1,4 @@
-<img align="right" alt="Edward Elric" width="200px" src="https://i.pinimg.com/originals/73/0b/8c/730b8cb9f7c2bbece1eb9f093f5205ef.gif">
+<img align="right" alt="midorya-gif" width="200px" src="https://i.pinimg.com/originals/73/0b/8c/730b8cb9f7c2bbece1eb9f093f5205ef.gif">
 
 ## Olá meu nome e Hebert Rocha <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">
 
@@ -25,7 +25,10 @@
   
 [![Hebert](https://github-readme-stats.vercel.app/api?username=Hebert324&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="right" alt="itadori-gif" width="220px" src="https://media1.giphy.com/media/WyuSXEOPDHMVhkitf6/giphy.gif">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hebert324&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 

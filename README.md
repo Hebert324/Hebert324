@@ -17,7 +17,7 @@
 </a> -->
 
 ## Minhas Experiências:
-<img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1617505854~hmac=9b2323edbc234388b78c05c43e34c19f" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1618423129~hmac=d9fbdb846f814ee38e85f299558aff29" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1618177802~hmac=5a83caaa0782fe31079c7e21e599c87f" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
@@ -39,7 +39,7 @@
     <img align="left" alt="Hebert | Linkedin" width="24px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1618166451~hmac=db9f25ab39e602efec9223c044d78b65" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/hebert.rc/">
-    <img align="left" alt="Hebert | Instagram" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1618166555~hmac=11f7d681c52a00e6359f716974557352" />
+    <img align="left" alt="Hebert | Instagram" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1618423245~hmac=f2ea568edc6fc5477888af01e81e629a" />
   </a> &nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCIGhuN-sgEiVoAVwAJte8Bw">
     <img align="left" alt="Hebert | Youtube" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1618166266~hmac=b778bb8942f91a557ca3b52df964b1f1" />

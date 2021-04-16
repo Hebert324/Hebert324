@@ -21,6 +21,13 @@
 <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1618177802~hmac=5a83caaa0782fe31079c7e21e599c87f" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
+## Oque eu quero aprender:
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" tittle="REACT" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://i.pinimg.com/originals/f1/11/2c/f1112c450b49753109b132bf8542cf49.png" tittle="MONGO DB" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" tittle="NODE JS" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://i.pinimg.com/originals/a4/e2/6a/a4e26a86c68e866d645d5a5607a7e9e2.png" tittle="BOOTSTRAP" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://i.pinimg.com/originals/de/67/94/de67947ca874ad4f75db38b01f061a84.png" tittle="TYPESCRIPT" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://i.pinimg.com/originals/29/74/cf/2974cf95e4a6ede198b3f0f101d509df.png" tittle="TNEXT.JS" width="40" height="40" style="max-width:100%;"></img>
 
 <div> <summary> <h1>GitHub status:</h1> </summary>  <details>
   

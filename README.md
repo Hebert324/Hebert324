@@ -7,21 +7,12 @@
 - Meu objetivo e me tornar um desenvolvedor de sucesso.🔥
 - Atualmente estou cursando Análise e Desenvolvimente de Sistemas.📚
 
-<!-- ## Conecte-se comigo:
-<a href="https://www.instagram.com/hebert.rc/" target="_blank">
-<img align="center" alt="hebert-instagram" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1617506161~hmac=08ecafc4209514af88b2336ed440fbdb" style="max-width:100%;">
-</a> -->
-
-<!-- <a href="https://www.linkedin.com/in/hebert-rocha-62318a1b3/" target="_blank">
-<img align="center" alt="Hebert-linkedin" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617506187~hmac=5e664be4ad1bbfd0ea2e08f941c35129" style="max-width:100%;">
-</a> -->
-
 ## Minhas Experiências:
 <img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1618423129~hmac=d9fbdb846f814ee38e85f299558aff29" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1618177802~hmac=5a83caaa0782fe31079c7e21e599c87f" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
-## Oque eu quero aprender:
+## Tecnologias que tenho interesse:
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" tittle="REACT" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/f1/11/2c/f1112c450b49753109b132bf8542cf49.png" tittle="MONGO DB" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" tittle="NODE JS" width="40" height="40" style="max-width:100%;"></img>

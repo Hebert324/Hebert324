@@ -5,7 +5,7 @@
 - Tenho experiência em HTML, CSS e JavaScript.👨🏻‍💻
 - Eu morro no Brasil, Goiânia-GO.🏡
 - Meu objetivo e me tornar um desenvolvedor de sucesso.🔥
-- Atualmente estou cursando Análise e Desenvolvimente de Sistema.📚
+- Atualmente estou cursando Análise e Desenvolvimente de Sistemas.📚
 
 ## Minhas Experiências:
 <img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1618423129~hmac=d9fbdb846f814ee38e85f299558aff29" alt="rails" width="40" height="40" style="max-width:100%;"></img>

@@ -37,7 +37,7 @@
     <img align="left" alt="Hebert | Linkedin" width="24px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619561971~hmac=d96553cae1bf99c3bc43e9985614804f" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/hebert.rc/">
-    <img align="left" alt="Hebert | Instagram" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1619562001~hmac=305f60e3ab9d651dbd75691aabaa2723" />
+    <img align="left" alt="Hebert | Instagram" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1619562001~hmac=cc5dc8c7aeb865cb20e04cd03702c951" />
   </a> &nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCIGhuN-sgEiVoAVwAJte8Bw">
     <img align="left" alt="Hebert | Youtube" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1618166266~hmac=b778bb8942f91a557ca3b52df964b1f1" />

@@ -46,4 +46,4 @@
     <img align="left" alt="Hebert | Gmail" width="26px" src="https://i.pinimg.com/originals/2c/1a/75/2c1a7560c88ea83e6b2593cd07af8ad8.png" />
   </a>
   
-![Snake animation](https://github.com/Hebert324/Hebert324/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/Hebert324/Hebert324/blob/output/github-contribution-grid-snake.svg)

@@ -18,7 +18,6 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" tittle="NODE JS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/a4/e2/6a/a4e26a86c68e866d645d5a5607a7e9e2.png" tittle="BOOTSTRAP" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/de/67/94/de67947ca874ad4f75db38b01f061a84.png" tittle="TYPESCRIPT" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://i.pinimg.com/originals/93/8d/34/938d34a289e79b9a763426e9d11ff8a2.png" tittle="NEXT.JS" width="40" height="40" style="max-width:100%;"></img>
 
 <div> <h1>GitHub status:</h1>  <details>
   

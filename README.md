@@ -19,17 +19,18 @@
 <img src="https://i.pinimg.com/originals/a4/e2/6a/a4e26a86c68e866d645d5a5607a7e9e2.png" tittle="BOOTSTRAP" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/de/67/94/de67947ca874ad4f75db38b01f061a84.png" tittle="TYPESCRIPT" width="40" height="40" style="max-width:100%;"></img>
 
-<div> <h1>GitHub status:</h1>  <details>
+# GitHub status:
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Hebert324&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
   
-[![Hebert](https://github-readme-stats.vercel.app/api?username=Hebert324&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebert324&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+  
 <img align="right" alt="itadori-gif" width="220px" src="https://media1.giphy.com/media/WyuSXEOPDHMVhkitf6/giphy.gif">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hebert324&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>
-
+  
 # Conecte-se comigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/hebert-rocha-62318a1b3/">

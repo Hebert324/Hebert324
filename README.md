@@ -31,7 +31,7 @@
   
 <img align="right" alt="itadori-gif" width="220px" src="https://media1.giphy.com/media/WyuSXEOPDHMVhkitf6/giphy.gif">
   
-# Conecte-se comigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+# Conecte-se comigo <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/hebert-rocha-62318a1b3/">
     <img align="left" alt="Hebert | Linkedin" width="24px" src="https://i.pinimg.com/originals/30/c4/53/30c453b7f5fbdb09ea0cb42a5dc7a6e5.png" />

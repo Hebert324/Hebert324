@@ -22,11 +22,11 @@
 # GitHub status:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Hebert324&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Hebert324&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
   
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebert324&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebert324&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
   
 <img align="right" alt="itadori-gif" width="220px" src="https://media1.giphy.com/media/WyuSXEOPDHMVhkitf6/giphy.gif">

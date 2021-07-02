@@ -24,13 +24,13 @@
 # GitHub status:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=hebert324&theme=tokyonight" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Hebert324&theme=tokyonight" />
 </a>
 
 <img align="right" alt="itadori-gif" width="220px" src="https://media1.giphy.com/media/WyuSXEOPDHMVhkitf6/giphy.gif">
   
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebert324&hide=html&layout=compact&theme=tokyonight" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebert324&hide=html&layout=compact&theme=tokyonight" />
 </a>
   
 # Conecte-se comigo <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">

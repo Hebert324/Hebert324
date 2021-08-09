@@ -13,7 +13,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="NODE JS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" alt="REACT/REACT NATIVE" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://redux.js.org/img/redux.svg" alt="REDUX" width="40" height="40" style="max-width:100%;"></img>
 
 ## Tecnologias que tenho interesse:
 <img src="https://i.pinimg.com/originals/f1/11/2c/f1112c450b49753109b132bf8542cf49.png" alt="MONGO DB" width="40" height="40" style="max-width:100%;"></img>

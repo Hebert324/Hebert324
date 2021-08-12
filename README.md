@@ -20,7 +20,8 @@
 <img src="https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png" alt="FIREBASE" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/a4/e2/6a/a4e26a86c68e866d645d5a5607a7e9e2.png" alt="BOOTSTRAP" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="SASS" width="40" height="40" style="max-width:100%;"></img>
-  
+<img src="https://user-images.githubusercontent.com/70274409/129220741-60a1e01d-2709-4d01-8843-8214ae32e7d4.png" alt="NEXT.JS" width="40" height="40" style="max-width:100%;"></img>
+
 # GitHub status:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

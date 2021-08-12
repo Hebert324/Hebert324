@@ -19,7 +19,7 @@
 <img src="https://i.pinimg.com/originals/de/67/94/de67947ca874ad4f75db38b01f061a84.png" alt="TYPESCRIPT" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png" alt="FIREBASE" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/a4/e2/6a/a4e26a86c68e866d645d5a5607a7e9e2.png" alt="BOOTSTRAP" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://user-images.githubusercontent.com/70274409/129220290-5416cba1-69d4-4419-84db-d48ec552a4ac.png" alt="SASS" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="SASS" width="40" height="40" style="max-width:100%;"></img>
   
 # GitHub status:
 

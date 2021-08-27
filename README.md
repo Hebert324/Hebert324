@@ -7,7 +7,7 @@
 - Meu objetivo e me tornar um desenvolvedor de sucesso.🔥
 - Atualmente estou cursando Análise e Desenvolvimente de Sistemas.📚
 
-## Tecnologias que tenho experiências é estou estudando:
+## Tecnologias que tenho experiência, é estou estudando:
 <img src="https://i.pinimg.com/originals/c5/73/ff/c573ff5552d6da9a1d28ec4e27cd1445.png" alt="HTML" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/b8/48/d5/b848d5d9bb221592064de0f356f61676.png" alt="CSS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40" style="max-width:100%;"></img>

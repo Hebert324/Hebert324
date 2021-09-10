@@ -2,7 +2,7 @@
 
 ## Olá meu nome e Hebert Rocha <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">
 
-- Tenho experiência em HTML, CSS e JavaScript.👨🏻‍💻
+- Tenho experiência em HTML, CSS, JavaScript, ReactJS, Styled Components.👨🏻‍💻
 - Eu morro no Brasil, Goiânia-GO.🏡
 - Meu objetivo e me tornar um desenvolvedor de sucesso.🔥
 - Atualmente estou cursando Análise e Desenvolvimente de Sistemas.📚

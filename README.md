@@ -2,10 +2,11 @@
 
 ## Olá meu nome e Hebert Rocha <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">
 
-- Tenho experiência em HTML, CSS, JavaScript, ReactJS, Styled Components.👨🏻‍💻
+- Gosto muito de estudar e sempre estou buscando melhorar meus conhecimentos.👨🏻‍💻
 - Eu morro no Brasil, Goiânia-GO.🏡
 - Meu objetivo e me tornar um desenvolvedor de sucesso.🔥
 - Atualmente estou cursando Análise e Desenvolvimente de Sistemas.📚
+- Tecnologia que estou mais utilizando: ReactJS, TypeScript e Styled Components.
 
 ## Tecnologias que tenho experiência, é estou estudando:
 <img src="https://i.pinimg.com/originals/c5/73/ff/c573ff5552d6da9a1d28ec4e27cd1445.png" alt="HTML" width="40" height="40" style="max-width:100%;"></img>

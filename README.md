@@ -4,7 +4,7 @@
 
 - Gosto muito de estudar e sempre estou buscando melhorar meus conhecimentos.👨🏻‍💻
 - Eu moro no Brasil, Goiânia-GO.🏡
-- Meu objetivo e me tornar um desenvolvedor de sucesso.🔥
+- Meu objetivo e me tornar um Desenvolvedor de sucesso.🔥
 - Atualmente estou cursando Análise e Desenvolvimente de Sistemas.📚
 - Tecnologia que estou mais utilizando: ReactJS, TypeScript, JavaScript e Node.❤
 

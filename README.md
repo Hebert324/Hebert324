@@ -3,7 +3,7 @@
 ## Olá meu nome e Hebert Rocha <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">
 
 - Gosto muito de estudar e sempre estou buscando melhorar meus conhecimentos.👨🏻‍💻
-- Eu morro no Brasil, Goiânia-GO.🏡
+- Eu moro no Brasil, Goiânia-GO.🏡
 - Meu objetivo e me tornar um desenvolvedor de sucesso.🔥
 - Atualmente estou cursando Análise e Desenvolvimente de Sistemas.📚
 - Tecnologia que estou mais utilizando: ReactJS, TypeScript, JavaScript e Node.❤

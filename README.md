@@ -15,7 +15,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="NODE JS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" alt="REACTJS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/de/67/94/de67947ca874ad4f75db38b01f061a84.png" alt="TYPESCRIPT" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" alt="PHP" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://img2.gratispng.com/20180825/bks/kisspng-php5-programowanie-logo-jpeg-computer-icons-custom-helper-php-function-to-print-array-theric-5b817888c5f8c6.6870411415352116568109.jpg" alt="PHP" width="40" height="40" style="max-width:100%;"></img>
 
 ## Tecnologias que tenho interesse:
 <img src="https://i.pinimg.com/originals/f1/11/2c/f1112c450b49753109b132bf8542cf49.png" alt="MONGO DB" width="40" height="40" style="max-width:100%;"></img>

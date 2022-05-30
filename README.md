@@ -8,6 +8,7 @@
 - Tecnologia que estou mais utilizando: ReactJS, TypeScript, JavaScript e Node.❤
 
 <h2>Tecnologias que tenho experiência, é estou estudando:</h2>
+
 <img src="https://i.pinimg.com/originals/c5/73/ff/c573ff5552d6da9a1d28ec4e27cd1445.png" alt="HTML" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/b8/48/d5/b848d5d9bb221592064de0f356f61676.png" alt="CSS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40" style="max-width:100%;"></img>
@@ -26,6 +27,7 @@
 </div>
 
 <h2>Tecnologias que tenho interesse:</h2>
+
 <img src="https://i.pinimg.com/originals/f1/11/2c/f1112c450b49753109b132bf8542cf49.png" alt="MONGO DB" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png" alt="FIREBASE" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/a4/e2/6a/a4e26a86c68e866d645d5a5607a7e9e2.png" alt="BOOTSTRAP" width="40" height="40" style="max-width:100%;"></img>

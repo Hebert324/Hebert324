@@ -7,14 +7,14 @@
 - Atualmente estou cursando Análise e Desenvolvimente de Sistemas.📚
 - Tecnologia que estou mais utilizando: ReactJS, TypeScript, JavaScript e Node.❤
 
-## Tecnologias que tenho experiência, é estou estudando:
+<h2>Tecnologias que tenho experiência, é estou estudando:</h2>
 <img src="https://i.pinimg.com/originals/c5/73/ff/c573ff5552d6da9a1d28ec4e27cd1445.png" alt="HTML" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/b8/48/d5/b848d5d9bb221592064de0f356f61676.png" alt="CSS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="NODE JS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" alt="REACTJS" width="40" height="40" style="max-width:100%;"></img>
 
-# GitHub status:
+<h2>GitHub status:</h2>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
@@ -25,7 +25,7 @@
 </a> 
 </div>
 
-## Tecnologias que tenho interesse:
+<h2>Tecnologias que tenho interesse:</h2>
 <img src="https://i.pinimg.com/originals/f1/11/2c/f1112c450b49753109b132bf8542cf49.png" alt="MONGO DB" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png" alt="FIREBASE" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/a4/e2/6a/a4e26a86c68e866d645d5a5607a7e9e2.png" alt="BOOTSTRAP" width="40" height="40" style="max-width:100%;"></img>
@@ -34,7 +34,7 @@
 
 <!-- <img align="right" alt="itadori-gif" width="220px" src="https://media1.giphy.com/media/WyuSXEOPDHMVhkitf6/giphy.gif"> -->
   
-# Conecte-se comigo <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+<h1>Conecte-se comigo <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"></h1>
 
   <a href="https://www.linkedin.com/in/hebert-rocha-62318a1b3/">
     <img align="left" alt="Hebert | Linkedin" width="24px" src="https://i.pinimg.com/originals/30/c4/53/30c453b7f5fbdb09ea0cb42a5dc7a6e5.png" />

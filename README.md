@@ -15,13 +15,6 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="NODE JS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" alt="REACTJS" width="40" height="40" style="max-width:100%;"></img>
 
-## Tecnologias que tenho interesse:
-<img src="https://i.pinimg.com/originals/f1/11/2c/f1112c450b49753109b132bf8542cf49.png" alt="MONGO DB" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png" alt="FIREBASE" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://i.pinimg.com/originals/a4/e2/6a/a4e26a86c68e866d645d5a5607a7e9e2.png" alt="BOOTSTRAP" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://github.com/Hebert324/Hebert324/blob/main/images/mysql.png?raw=true" alt="MySQL" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://i.pinimg.com/originals/de/67/94/de67947ca874ad4f75db38b01f061a84.png" alt="TYPESCRIPT" width="40" height="40" style="max-width:100%;"></img>
-
 # GitHub status:
 
 <div align="center">
@@ -32,6 +25,13 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Hebert324&theme=apprentice&hide_border=true" />
 </a> 
 </div>
+
+## Tecnologias que tenho interesse:
+<img src="https://i.pinimg.com/originals/f1/11/2c/f1112c450b49753109b132bf8542cf49.png" alt="MONGO DB" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png" alt="FIREBASE" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://i.pinimg.com/originals/a4/e2/6a/a4e26a86c68e866d645d5a5607a7e9e2.png" alt="BOOTSTRAP" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://github.com/Hebert324/Hebert324/blob/main/images/mysql.png?raw=true" alt="MySQL" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://i.pinimg.com/originals/de/67/94/de67947ca874ad4f75db38b01f061a84.png" alt="TYPESCRIPT" width="40" height="40" style="max-width:100%;"></img>
 
 <!-- <img align="right" alt="itadori-gif" width="220px" src="https://media1.giphy.com/media/WyuSXEOPDHMVhkitf6/giphy.gif"> -->
   

@@ -1,14 +1,12 @@
-<div>
-  ## Olá meu nome e Hebert Rocha <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">
-  
 <img align="right" alt="midorya-gif" width="150px" src="https://i.pinimg.com/originals/73/0b/8c/730b8cb9f7c2bbece1eb9f093f5205ef.gif">
-  
-  - Gosto muito de estudar e sempre estou buscando melhorar meus conhecimentos.👨🏻‍💻
-  - Eu moro no Brasil, Goiânia-GO.🏡
-  - Meu objetivo e me tornar um Desenvolvedor de sucesso.🔥
-  - Atualmente estou cursando Análise e Desenvolvimente de Sistemas.📚
-  - Tecnologia que estou mais utilizando: ReactJS, TypeScript, JavaScript e Node.❤
-</div>
+
+## Olá meu nome e Hebert Rocha <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">
+
+- Gosto muito de estudar e sempre estou buscando melhorar meus conhecimentos.👨🏻‍💻
+- Eu moro no Brasil, Goiânia-GO.🏡
+- Meu objetivo e me tornar um Desenvolvedor de sucesso.🔥
+- Atualmente estou cursando Análise e Desenvolvimente de Sistemas.📚
+- Tecnologia que estou mais utilizando: ReactJS, TypeScript, JavaScript e Node.❤
 
 ## Tecnologias que tenho experiência, é estou estudando:
 <img src="https://i.pinimg.com/originals/c5/73/ff/c573ff5552d6da9a1d28ec4e27cd1445.png" alt="HTML" width="40" height="40" style="max-width:100%;"></img>

@@ -25,12 +25,12 @@
 # GitHub status:
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hebert324&theme=github_dark&layout=compact" />
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebert324&hide=html&layout=compact&theme=apprentice&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebert324&hide=html&layout=compact&theme=github_dark&layout=compact" />
-</a>  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hebert324&theme=apprentice&layout=compact" />
+</a> 
 </div>
 
 <!-- <img align="right" alt="itadori-gif" width="220px" src="https://media1.giphy.com/media/WyuSXEOPDHMVhkitf6/giphy.gif"> -->

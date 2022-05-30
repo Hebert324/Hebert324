@@ -1,9 +1,8 @@
 <div style="display: inline_block">
   Olá meu nome e Hebert Rocha <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">
   
-  ##
-  
   <img align="right" alt="midorya-gif" height="100px" src="https://i.pinimg.com/originals/73/0b/8c/730b8cb9f7c2bbece1eb9f093f5205ef.gif">
+  ##
 </div>
 
 - Gosto muito de estudar e sempre estou buscando melhorar meus conhecimentos.👨🏻‍💻

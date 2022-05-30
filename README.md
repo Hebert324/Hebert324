@@ -1,11 +1,8 @@
 <div style="display: inline_block">
-  Olá meu nome e Hebert Rocha <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">
+  <h2>Olá meu nome e Hebert Rocha <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"></h2>
   
-  <img align="right" alt="midorya-gif" height="100px" src="https://i.pinimg.com/originals/73/0b/8c/730b8cb9f7c2bbece1eb9f093f5205ef.gif">
-</div>
-
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/73/0b/8c/730b8cb9f7c2bbece1eb9f093f5205ef.gif?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" src="https://i.pinimg.com/originals/73/0b/8c/730b8cb9f7c2bbece1eb9f093f5205ef.gif?width=676&height=676">
 </div>
 
 ##

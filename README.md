@@ -26,10 +26,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebert324&hide=html&layout=compact&theme=apprentice&layout=compact" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebert324&hide=html&layout=compact&theme=apprentice" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Hebert324&theme=apprentice&layout=compact" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Hebert324&theme=apprentice" />
 </a> 
 </div>
 

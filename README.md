@@ -51,6 +51,3 @@
   </a>
   
 ![Snake animation](https://github.com/Hebert324/Hebert324/blob/output/github-contribution-grid-snake.svg)
-
- ##   Here is a random joke that'll make you laugh!
- ![Jokes Card](https://readme-jokes.vercel.app/api)

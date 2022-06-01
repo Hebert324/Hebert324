@@ -1,4 +1,4 @@
-<h2 align="left">Olá meu nome e Hebert Rocha <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" height="29px"></h2>
+<h2 align="left">Olá meu nome e Hebert Rocha<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" height="29px"></h2>
 
 - Gosto muito de estudar e sempre estou buscando melhorar meus conhecimentos.👨🏻‍💻
 - Eu moro no Brasil, mas um dos meus sonhos e morar em outro País.🌎
@@ -35,7 +35,7 @@
 
 <!-- <img align="right" alt="itadori-gif" width="220px" src="https://media1.giphy.com/media/WyuSXEOPDHMVhkitf6/giphy.gif"> -->
   
-<h2>Conecte-se comigo <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"></h2>
+<h2>Conecte-se comigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"></h2>
 
   <a href="https://www.linkedin.com/in/hebert-rocha-62318a1b3/">
     <img align="left" alt="Hebert | Linkedin" width="24px" src="https://i.pinimg.com/originals/30/c4/53/30c453b7f5fbdb09ea0cb42a5dc7a6e5.png" />

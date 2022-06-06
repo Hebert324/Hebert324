@@ -14,6 +14,12 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="NODE JS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" alt="REACTJS" width="40" height="40" style="max-width:100%;"></img>
 
+<h2>Tecnologias que tenho interesse:</h2>
+
+<img src="https://i.pinimg.com/originals/f1/11/2c/f1112c450b49753109b132bf8542cf49.png" alt="MONGO DB" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png" alt="FIREBASE" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://i.pinimg.com/originals/a4/e2/6a/a4e26a86c68e866d645d5a5607a7e9e2.png" alt="BOOTSTRAP" width="40" height="40" style="max-width:100%;"></img>
+
 <h2>GitHub status:</h2>
 
 <div align="center">

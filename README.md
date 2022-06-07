@@ -37,7 +37,7 @@
   
 <h2>Conecte-se comigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"></h2>
 
-  <a href="https://www.linkedin.com/in/hebert-rocha-62318a1b3/">
+  <a href="www.linkedin.com/in/hebert-rc">
     <img align="left" alt="Hebert | Linkedin" width="24px" src="https://i.pinimg.com/originals/30/c4/53/30c453b7f5fbdb09ea0cb42a5dc7a6e5.png" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/hebert.rc/">

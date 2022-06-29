@@ -21,6 +21,7 @@
 <img src="https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png" alt="FIREBASE" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/a4/e2/6a/a4e26a86c68e866d645d5a5607a7e9e2.png" alt="BOOTSTRAP" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://github.com/Hebert324/Hebert324/blob/main/images/mysql.png?raw=true" alt="MySQL" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" width="40" height="40" style="max-width:100%;"></img>
 
 <!-- <img align="right" alt="itadori-gif" width="220px" src="https://media1.giphy.com/media/WyuSXEOPDHMVhkitf6/giphy.gif"> -->
 

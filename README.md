@@ -1,5 +1,7 @@
 <h2 align="left">Olá meu nome e Hebert Rocha<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" height="29px"></h2>
 
+<img align="right" alt="Hebert-pic" height="150" style="[border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_4ip0ZXWF.png?width=676&height=676">
+
 - Gosto muito de estudar e sempre estou buscando melhorar meus conhecimentos.👨🏻‍💻
 - Eu moro no Brasil, mas um dos meus sonhos e morar em outro País.🌎
 - Meu objetivo e me tornar um Desenvolvedor de sucesso.🔥
@@ -15,8 +17,6 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" alt="REACTJS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/de/67/94/de67947ca874ad4f75db38b01f061a84.png" alt="TYPESCRIPT" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn-icons-png.flaticon.com/512/599/599368.png" alt="STYLED-COMPONENTS" width="40" height="40" style="max-width:100%;"></img>
-
-<img align="right" alt="Rafa-pic" height="150" style="[border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_4ip0ZXWF.png?width=676&height=676">
 
 <h2>Tecnologias que tenho interesse:</h2>
 

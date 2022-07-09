@@ -16,7 +16,7 @@
 <img src="https://i.pinimg.com/originals/de/67/94/de67947ca874ad4f75db38b01f061a84.png" alt="TYPESCRIPT" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn-icons-png.flaticon.com/512/599/599368.png" alt="STYLED-COMPONENTS" width="40" height="40" style="max-width:100%;"></img>
 
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_1VRK9ybU.png?width=676&height=676">
+<img align="right" alt="Rafa-pic" height="150" style="[border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_1VRK9ybU.png?width=676&height=676">
 
 <h2>Tecnologias que tenho interesse:</h2>
 

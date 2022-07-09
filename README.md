@@ -1,6 +1,6 @@
 <h2 align="left">Olá meu nome e Hebert Rocha<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" height="29px"></h2>
 
-<img align="right" alt="Hebert-pic" height="150" style="[border-radius:50px;" src="https://github.com/Hebert324/Hebert324/blob/main/images/Memoji%20color.png?raw=true?width=676&height=676">
+<img align="right" alt="Hebert-pic" height="150" style="[border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_4ip0ZXWF.png?width=676&height=676">
 
 - Gosto muito de estudar e sempre estou buscando melhorar meus conhecimentos.👨🏻‍💻
 - Eu moro no Brasil, mas um dos meus sonhos e morar em outro País.🌎

@@ -1,7 +1,5 @@
 <h2 align="left">Olá meu nome e Hebert Rocha<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" height="29px"></h2>
 
-Picrewの「AmphyPop Doll Maker」でつくったよ！ https://picrew.me/share?cd=7jdXp96Dpp #Picrew #AmphyPop_Doll_Maker
-
 - Gosto muito de estudar e sempre estou buscando melhorar meus conhecimentos.👨🏻‍💻
 - Eu moro no Brasil, mas um dos meus sonhos e morar em outro País.🌎
 - Meu objetivo e me tornar um Desenvolvedor de sucesso.🔥

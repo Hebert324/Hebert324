@@ -2,11 +2,17 @@
 
 <img align="right" alt="Hebert-pic" height="150" style="[border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_4ip0ZXWF.png?width=676&height=676">
 
-- Gosto muito de estudar e sempre estou buscando melhorar meus conhecimentos.👨🏻‍💻
-- Eu moro no Brasil, mas um dos meus sonhos e morar em outro País.🌎
-- Meu objetivo e me tornar um Desenvolvedor de sucesso.🔥
-- Atualmente estou cursando Análise e Desenvolvimente de Sistemas.📚
-- Tecnologia que estou mais utilizando: ReactJS, TypeScript, JavaScript e Node.❤
+<p>
+Desenvolvedor Web com conhecimento em React.JS, Node.js, JavaScript, HTML/CSS, Git/Gituhb.
+
+Sempre fui apaixonado por tecnologia mas foi em 2021 que entrei neste mundo da programação e estou aqui até hoje e sempre buscando aprender mais e evoluir. Olha para trás e vejo o tanto que evolui e acredito que ainda tenho muito pela frente isso me motiva a estudar a aprimorar meus conhecimento e poder compartilhar o que sei com as outras pessoas.
+
+Poder buscar a solução para problemas dos meus próprios projetos ou de empresas a onde trabalhei e algo que me deixa muito feliz, cada erro resolvido e uma conquista mesmo que seja coisas simples.
+
+Atualmente venho me dedicando ao Desenvolvimento Front-End e me especializando em React.JS, JavaScript, HTML/CSS. Também venho buscando conhecimento em tecnologias Back-End como: NodeJS, MySQL, MongoDB, Firebase e alguns serviços CMS para ampliar minhas experiências.
+
+Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, sempre que posso busco ajudar as outras pessoas com os meus conhecimentos, gosto de planejar meu dia e me organizar para a melhor realização das minhas atividades.
+</p>
 
 <h2>Tecnologias que tenho experiência, é estou estudando:</h2>
 

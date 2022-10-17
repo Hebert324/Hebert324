@@ -5,7 +5,7 @@
 <p>
 Desenvolvedor Web com conhecimento em React.JS, Node.js, JavaScript, HTML/CSS, Git/Gituhb.
 
-Atualmente venho me dedicando ao Desenvolvimento Front-End e me especializando em React.JS, JavaScript, HTML/CSS. Também venho buscando conhecimento em tecnologias Back-End como: NodeJS, MySQL, MongoDB, Firebase e alguns serviços CMS para ampliar minhas experiências.
+Atualmente venho me dedicando ao Desenvolvimento Front-End e me especializando em React.JS, JavaScript, HTML e CSS. Também venho buscando conhecimento em tecnologias Back-End como: NodeJS, MySQL, MongoDB, Firebase e alguns serviços CMS para ampliar minhas experiências.
  
 Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, sempre que posso busco ajudar as outras pessoas com os meus conhecimentos, gosto de planejar meu dia e me organizar para a melhor realização das minhas atividades.
 </p>

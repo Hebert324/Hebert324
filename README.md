@@ -1,7 +1,5 @@
 <h2 align="left">Olá meu nome e Hebert Rocha<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" height="29px"></h2>
 
-<img align="right" alt="Hebert-pic" height="180" style="[border-radius:50px;" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0acb7ac6-1028-4755-a272-dd20c04f43af%2Fdownload20220705233715.png?table=block&id=4492c4af-654b-4609-943b-89f48759ce3b&spaceId=1ce8ad31-8cec-4601-8e2c-64e0d9c56739&width=250&userId=9ae43742-04b8-4f46-9f38-310fd6897265&cache=v2">
-
 <p>
 Desenvolvedor Web com conhecimento em React.JS, Node.js, JavaScript, HTML/CSS, Git/Gituhb.
 

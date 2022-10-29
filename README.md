@@ -32,7 +32,7 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
 
 <h2>GitHub status:</h2>
 
-<img align="left" width="200px" alt="atenção" src="https://github.com/Hebert324/Hebert324/blob/main/images/MEMOJI%20PARE%20NEW.png">
+<img align="right" width="180px" alt="atenção" src="https://github.com/Hebert324/Hebert324/blob/main/images/MEMOJI%20PARE%20NEW.png">
 
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">

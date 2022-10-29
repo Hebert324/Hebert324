@@ -32,7 +32,7 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
 
 <h2>GitHub status:</h2>
 
-<div align="center">
+<div align="center" display="flex">
   <a href="https://github.com/anuraghazra/convoychat">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebert324&hide=html&layout=compact&theme=apprentice&hide_border=true" />
 </a>

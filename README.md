@@ -20,6 +20,8 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
 <img src="https://i.pinimg.com/originals/de/67/94/de67947ca874ad4f75db38b01f061a84.png" alt="TYPESCRIPT" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn-icons-png.flaticon.com/512/599/599368.png" alt="STYLED-COMPONENTS" width="40" height="40" style="max-width:100%;"></img>
 
+<img align="right" width="200px" alt="atenção" src="https://github.com/Hebert324/Hebert324/blob/main/images/MEMOJI%20PARE.PNG">
+
 <h2>Tecnologias que tenho interesse:</h2>
 
 <img src="https://i.pinimg.com/originals/f1/11/2c/f1112c450b49753109b132bf8542cf49.png" alt="MONGO DB" width="40" height="40" style="max-width:100%;"></img>
@@ -31,8 +33,6 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="40" height="40" style="max-width:100%;"></img>
 
 <h2>GitHub status:</h2>
-
-<img align="right" width="185px" alt="atenção" src="https://github.com/Hebert324/Hebert324/blob/main/images/MEMOJI%20PARE.PNG">
 
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">

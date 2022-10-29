@@ -32,16 +32,16 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
 
 <h2>GitHub status:</h2>
 
-<div align="center" display="flex">
   <a href="https://github.com/anuraghazra/convoychat">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebert324&hide=html&layout=compact&theme=apprentice&hide_border=true" />
 </a>
+
+<img align="right" alt="atenção" width="220px" src="https://github.com/Hebert324/Hebert324/blob/main/images/MEMOJI%20PARE.PNG">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Hebert324&theme=apprentice&hide_border=true" />
 </a> 
  
- <img align="right" alt="itadori-gif" width="220px" src="https://github.com/Hebert324/Hebert324/blob/main/images/MEMOJI%20PARE.PNG">
-</div>
   
 <h2>Conecte-se comigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"></h2>
 

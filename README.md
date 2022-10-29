@@ -1,6 +1,6 @@
 <h2 align="left">Olá meu nome e Hebert Rocha<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" height="29px"></h2>
 
-<img align="right" alt="Hebert-pic" width="250px" style="border-radius:50px;" src="https://github.com/Hebert324/Hebert324/blob/main/images/MEMOJI%20PC.PNG">
+<img align="right" alt="Hebert-pic" width="180px" style="border-radius:50px;" src="https://github.com/Hebert324/Hebert324/blob/main/images/MEMOJI%20PC.PNG">
 
 <p>
 Desenvolvedor Web com conhecimento em React.JS, Node.js, JavaScript, HTML/CSS, Git/Gituhb.

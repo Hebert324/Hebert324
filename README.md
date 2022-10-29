@@ -30,8 +30,6 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
 <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="SASS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="40" height="40" style="max-width:100%;"></img>
 
-<img align="right" alt="itadori-gif" width="220px" src="https://github.com/Hebert324/Hebert324/blob/main/images/MEMOJI%20PARE.PNG">
-
 <h2>GitHub status:</h2>
 
 <div align="center">
@@ -41,6 +39,8 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Hebert324&theme=apprentice&hide_border=true" />
 </a> 
+ 
+ <img align="right" alt="itadori-gif" width="220px" src="https://github.com/Hebert324/Hebert324/blob/main/images/MEMOJI%20PARE.PNG">
 </div>
   
 <h2>Conecte-se comigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"></h2>

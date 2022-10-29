@@ -47,6 +47,8 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
   
 <h2>Conecte-se comigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"></h2>
 
+  <img align="left" width="185px" alt="atenção" src="https://github.com/Hebert324/Hebert324/blob/main/images/MEMOJI%20ME%20LIGA.PNG">
+
   <a href="https://www.linkedin.com/in/hebert-rc">
     <img align="left" alt="Hebert | Linkedin" width="24px" src="https://i.pinimg.com/originals/30/c4/53/30c453b7f5fbdb09ea0cb42a5dc7a6e5.png" />
   </a> &nbsp;&nbsp;
@@ -59,7 +61,6 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
   <a href="mailto:hebertrocha76@gmail.com">
     <img align="left" alt="Hebert | Gmail" width="26px" src="https://i.pinimg.com/originals/2c/1a/75/2c1a7560c88ea83e6b2593cd07af8ad8.png" />
   </a>
-  
-  <img align="left" width="185px" alt="atenção" src="https://github.com/Hebert324/Hebert324/blob/main/images/MEMOJI%20ME%20LIGA.PNG">
+ 
   
 ![Snake animation](https://github.com/Hebert324/Hebert324/blob/output/github-contribution-grid-snake.svg)

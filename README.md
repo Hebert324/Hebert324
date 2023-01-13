@@ -30,7 +30,7 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
 <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="SASS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="40" height="40" style="max-width:100%;"></img>
 
-<h2>GitHub status:</h2>
+<!-- <h2>GitHub status:</h2>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
@@ -39,7 +39,7 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Hebert324&theme=apprentice&hide_border=true" />
-</a> 
+</a> -->
  
 </div>
   

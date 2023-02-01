@@ -3,7 +3,7 @@
 <img align="right" alt="Hebert-pic" width="200px" style="border-radius:50px;" src="https://github.com/Hebert324/Hebert324/blob/main/images/MEMOJI%20PC.PNG">
 
 <p>
-Desenvolvedor Web com conhecimento em React.JS, Node.js, JavaScript, HTML/CSS, Git/Gituhb.
+Desenvolvedor Web com conhecimento em React.JS, Node.js, JavaScript, HTML/CSS, Git.
 
 Atualmente venho me dedicando ao Desenvolvimento Front-End e me especializando em React.JS, JavaScript, HTML e CSS. Também venho buscando conhecimento em tecnologias Back-End como: NodeJS, MySQL, C#, Firebase e alguns serviços CMS para ampliar minhas experiências.
  

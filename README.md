@@ -14,7 +14,7 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="VUE.JS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="TAILWIND" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="TAILWIND" width="60" height="40" style="max-width:100%;"></img>
 <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="SASS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" alt="REACTJS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="NODE JS" width="40" height="40" style="max-width:100%;"></img>

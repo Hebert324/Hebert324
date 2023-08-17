@@ -27,7 +27,7 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
 <img src="https://i.pinimg.com/originals/a4/e2/6a/a4e26a86c68e866d645d5a5607a7e9e2.png" alt="BOOTSTRAP" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://github.com/Hebert324/Hebert324/blob/main/images/mysql.png?raw=true" alt="MySQL" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="SASS" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="SASS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="40" height="40" style="max-width:100%;"></img>
 
 <!-- <h2>GitHub status:</h2>

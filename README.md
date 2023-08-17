@@ -3,9 +3,9 @@
 <img align="right" alt="Hebert-pic" width="200px" style="border-radius:50px;" src="https://github.com/Hebert324/Hebert324/blob/main/images/MEMOJI%20PC.PNG">
 
 <p>
-Desenvolvedor Web com conhecimento em React, Node.js, JavaScript, HTML/CSS, Git.
+Front-End Web Developer com conhecimento em Vue.JS, React, Node.js, JavaScript, Tailwind, Sass, HTML/CSS, Git.
 
-Atualmente venho me dedicando ao Desenvolvimento Front-End e me especializando em React.JS, JavaScript, HTML e CSS. Também venho buscando conhecimento em tecnologias Back-End como: NodeJS, MySQL, C#, Firebase e alguns serviços CMS para ampliar minhas experiências.
+Atualmente venho me dedicando ao Desenvolvimento Front-End e me especializando em Vue.JS, JavaScript, Tailwind.
  
 Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, sempre que posso busco ajudar as outras pessoas com os meus conhecimentos, gosto de planejar meu dia e me organizar para a melhor realização das minhas atividades.
 </p>
@@ -18,17 +18,15 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="NODE JS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" alt="REACTJS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/de/67/94/de67947ca874ad4f75db38b01f061a84.png" alt="TYPESCRIPT" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://github.com/Hebert324/Hebert324/blob/main/images/c%23.svg" alt="C#" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="SASS" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="VUE.JS" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="40" height="40" style="max-width:100%;"></img>
 
 <h2>Tecnologias que tenho interesse:</h2>
 
-<img src="https://i.pinimg.com/originals/f1/11/2c/f1112c450b49753109b132bf8542cf49.png" alt="MONGO DB" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png" alt="FIREBASE" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/a4/e2/6a/a4e26a86c68e866d645d5a5607a7e9e2.png" alt="BOOTSTRAP" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://github.com/Hebert324/Hebert324/blob/main/images/mysql.png?raw=true" alt="MySQL" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="SASS" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="40" height="40" style="max-width:100%;"></img>
 
 <!-- <h2>GitHub status:</h2>
 

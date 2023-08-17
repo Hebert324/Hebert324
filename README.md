@@ -44,16 +44,16 @@ Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, 
 <h2>Conecte-se comigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"></h2>
 
   <a href="https://www.linkedin.com/in/hebert-rc">
-    <img align="left" alt="Hebert | Linkedin" width="24px" src="https://i.pinimg.com/originals/30/c4/53/30c453b7f5fbdb09ea0cb42a5dc7a6e5.png" />
+    <img align="left" alt="Hebert | Linkedin" width="32px" src="https://i.pinimg.com/originals/30/c4/53/30c453b7f5fbdb09ea0cb42a5dc7a6e5.png" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/hebert.rc/">
-    <img align="left" alt="Hebert | Instagram" width="26px" src="https://i.pinimg.com/originals/4a/8c/23/4a8c23476a7c20c5bee2a752a6f96e9e.png" />
+    <img align="left" alt="Hebert | Instagram" width="32px" src="https://i.pinimg.com/originals/4a/8c/23/4a8c23476a7c20c5bee2a752a6f96e9e.png" />
   </a> &nbsp;&nbsp;
 <!--   <a href="https://www.youtube.com/channel/UCIGhuN-sgEiVoAVwAJte8Bw">
     <img align="left" alt="Hebert | Youtube" width="26px" src="https://i.pinimg.com/originals/ca/6d/67/ca6d67e60f758d352745329b283e8f32.png" />
   </a> &nbsp;&nbsp; -->
   <a href="mailto:hebertrocha76@gmail.com">
-    <img align="left" alt="Hebert | Gmail" width="26px" src="https://i.pinimg.com/originals/2c/1a/75/2c1a7560c88ea83e6b2593cd07af8ad8.png" />
+    <img align="left" alt="Hebert | Gmail" width="32px" src="https://i.pinimg.com/originals/2c/1a/75/2c1a7560c88ea83e6b2593cd07af8ad8.png" />
   </a>
 
   

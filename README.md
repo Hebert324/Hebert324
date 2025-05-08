@@ -5,7 +5,7 @@
 <p>
 Front-End Web Developer com conhecimento em Vue.JS, React, Node.js, JavaScript, Tailwind, Sass, HTML/CSS, Git.
 
-Atualmente venho me dedicando ao Desenvolvimento Front-End e me especializando em Vue.JS, JavaScript, Tailwind.
+Atualmente venho me dedicando ao Desenvolvimento Front-End e me especializando em Vue.JS, React, JavaScript, Tailwind e IA.
  
 Tenho facilidade em me relacionar com a equipe, amo compartilhar minhas ideias, sempre que posso busco ajudar as outras pessoas com os meus conhecimentos, gosto de planejar meu dia e me organizar para a melhor realização das minhas atividades.
 </p>

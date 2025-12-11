@@ -42,7 +42,7 @@ Storybook • Figma • Git/GitHub • Vite • Vitest • i18n • Yarn • npm
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1369px-Pinialogo.svg.png" alt="PINIA" width="32" height="40" style="max-width:100%;"></img>
 
 ## 📌 O que busco
-Consolidar cada vez mais minha senioridade como **full stack**, aprimorando arquitetura, testes, pipelines e decisões técnicas que aumentem a eficiência e confiabilidade dos sistemas.
+Consolidar cada vez mais minha senioridade como **Full Stack**, aprimorando arquitetura, testes, produtividade e decisões técnicas que aumentem a eficiência e confiabilidade dos sistemas.
 
 📚 *Sempre aprendendo, sempre evoluindo, no código e como pessoa.*
 </p>

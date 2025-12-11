@@ -12,13 +12,13 @@ Sou movido por organização, clareza e propósito no código. Gosto de colabora
 ## 🚀 Tecnologias & Ferramentas
 
 ### **Frontend**
-- AngularJS • React.js • Vue.js • TypeScript • JavaScript • Tailwind CSS • SASS • HTML • CSS • Ionic • Pinia  
+AngularJS • React.js • Vue.js • TypeScript • JavaScript • Tailwind CSS • SASS • HTML • CSS • Ionic • Pinia  
 
 ### **Backend**
-- C# • .NET • Entity Framework • PostgreSQL • MySQL • Supabase • Firebase • Node.js • GraphQL • CMS • CI/CD
+C# • .NET • Entity Framework • PostgreSQL • MySQL • Supabase • Firebase • Node.js • GraphQL • CMS • CI/CD
 
 ### **Ferramentas & Práticas**
-- Storybook • Figma • Git/GitHub • Vite • Vitest • i18n • Yarn • npm • nvm • Clean Code • Arquitetura • Scrum
+Storybook • Figma • Git/GitHub • Vite • Vitest • i18n • Yarn • npm • nvm • Clean Code • Arquitetura • Scrum
 
 </br>
 

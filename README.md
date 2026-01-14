@@ -37,9 +37,9 @@ Storybook • Figma • Git/GitHub • Vite • Vitest • i18n • Yarn • npm
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="NODE JS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="VITE" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/supabase.webp" alt="SUPABASE" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1365px-Figma-logo.svg.png" alt="FIGMA" width="32" height="40" style="max-width:100%;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="FIGMA" width="32" height="40" style="max-width:100%;"></img>
 <img src="https://iconape.com/wp-content/png_logo_vector/yarn-logo.png" alt="YARN" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1369px-Pinialogo.svg.png" alt="PINIA" width="32" height="40" style="max-width:100%;"></img>
+<img src="https://pinia.vuejs.org/logo.svg" alt="PINIA" width="32" height="40" style="max-width:100%;"></img>
 
 ## 📌 O que busco
 Consolidar cada vez mais minha senioridade como **Full Stack**, aprimorando arquitetura, testes, produtividade e decisões técnicas que aumentem a eficiência e confiabilidade dos sistemas.

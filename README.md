@@ -22,24 +22,24 @@ Storybook • Figma • Git/GitHub • Vite • Vitest • i18n • Yarn • npm
 
 </br>
 
-<img src="https://cdn.prod.website-files.com/62876589ec366575fa309b1e/65cbc63ea7d2271f5898837b_Angular%20JS.svg" alt="ANGULARJS" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" alt="REACTJS" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="VUE.JS" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://images.icon-icons.com/2415/PNG/512/typescript_plain_logo_icon_146316.png" alt="TYPESCRIPT" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="TAILWIND" width="60" height="40" style="max-width:100%;"></img>
-<img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="SASS" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://i.pinimg.com/originals/c5/73/ff/c573ff5552d6da9a1d28ec4e27cd1445.png" alt="HTML" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://i.pinimg.com/originals/b8/48/d5/b848d5d9bb221592064de0f356f61676.png" alt="CSS" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/960px-Logo_C_sharp.svg.png" alt="C#" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt=".NET" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="POSTGRESQL" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="NODE JS" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="VITE" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/supabase.webp" alt="SUPABASE" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="FIGMA" width="32" height="40" style="max-width:100%;"></img>
-<img src="https://iconape.com/wp-content/png_logo_vector/yarn-logo.png" alt="YARN" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://pinia.vuejs.org/logo.svg" alt="PINIA" width="32" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/angularjs.svg" alt="ANGULARJS" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/reactjs.png" alt="REACTJS" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/vuejs.png" alt="VUE.JS" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/javascript.svg" alt="JAVASCRIPT" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/typescript.webp" alt="TYPESCRIPT" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/tailwind.png" alt="TAILWIND" width="60" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/sass.svg" alt="SASS" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/html5.png" alt="HTML" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/css3.png" alt="CSS" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/csharp.png" alt="C#" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/net.png" alt=".NET" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/postgresql.png" alt="POSTGRESQL" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/node.png" alt="NODE JS" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/vite.png" alt="VITE" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/supabase.webp" alt="SUPABASE" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/figma.svg" alt="FIGMA" width="32" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/yarn.png" alt="YARN" width="40" height="40" style="max-width:100%;"></img>
+<img src="./images/stacks/pinia.svg" alt="PINIA" width="32" height="40" style="max-width:100%;"></img>
 
 ## 📌 O que busco
 Consolidar cada vez mais minha senioridade como **Full Stack**, aprimorando arquitetura, testes, produtividade e decisões técnicas que aumentem a eficiência e confiabilidade dos sistemas.
